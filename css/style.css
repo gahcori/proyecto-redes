@@ -64,6 +64,10 @@ video{
 .table > thead > tr > th{
     vertical-align: middle;
 }
+
+.td-justify{
+    text-align: justify;
+}
 /*************** Estilos del header y nav ***************/
 .header{
     background-color: #00796b;
