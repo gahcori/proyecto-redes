@@ -1,2 +1,2 @@
 # proyecto-redes
-proyecto para ingeniera de redes.
+proyecto para ingenieria de redes 1.
